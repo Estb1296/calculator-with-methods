@@ -1,6 +1,6 @@
 package com.pluralsight;
 
-public class MethodPracticeApp {
+public class Hello {
     public static void main(String[] args) {
         sayHello();
         sayGoodbye();
